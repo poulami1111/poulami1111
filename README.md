@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulami1111&label=Profile%20views&color=0e75b6&style=flat" alt="poulami1111" /> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/poulami1111](https://github.com/poulami1111)
 
-- 💬 Ask me about **Front-end , I can help with Html ,CSS, JavaScript also SQL.**
+- 💬 Ask me about **Front-end , I can help with Html ,CSS, JavaScript,React also SQL.**
 
 - 📫 How to reach me **poulami.das7604@gmail.com**
 
