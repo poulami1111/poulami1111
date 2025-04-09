@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm POULAMI DAS</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm POULAMI DAS</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
 <img align="center" alt="coding" width="480" src="https://media.tenor.com/hE0T8D0GpXsAAAAC/joinblink-blink.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulami1111&label=Profile%20views&color=0e75b6&style=flat" alt="poulami1111" /> </p>
